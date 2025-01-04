@@ -121,7 +121,7 @@
       // Enable clicking by tapping on the TP.
       // Not all TPs support this.
        tp-press-to-select;
-       tp-press-to-select-threshold = <40>;
+       tp-press-to-select-threshold = <25>;
 
 
       // Adjust axis settings on the TP
